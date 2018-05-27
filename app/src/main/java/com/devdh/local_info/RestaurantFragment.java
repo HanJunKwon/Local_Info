@@ -17,8 +17,6 @@ public class RestaurantFragment extends Fragment{
 
     Toolbar tb_rest;
 
-    final String KEY = "XifyyLBPsuuJ8whKJlCL=GAwT7RcjPYqcGAdQFnpUIE=";
-
     SharedPreferences pref;
 
     Context context;
